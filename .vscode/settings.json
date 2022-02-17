@@ -1,0 +1,10 @@
+{
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "/usr/share/java/mysql-connector-java-8.0.23.jar",
+    "/storage/emulated/0/Download/rs2xml.jar"
+  ],
+  "java.project.sourcePaths": [
+    "src"
+  ],
+}
